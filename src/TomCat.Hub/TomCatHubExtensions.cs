@@ -2,7 +2,7 @@
 
 namespace TomCat.Hub
 {
-    public class Class1
+    public class TomCatHubExtensions
     {
     }
 }
