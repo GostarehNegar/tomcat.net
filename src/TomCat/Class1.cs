@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace tomcat
+namespace TomCat
 {
     public class Class1
     {
