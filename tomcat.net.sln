@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomCat", "src\TomCat\TomCat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomCat.Server", "src\TomCat.Server\TomCat.Server.csproj", "{F8F8EEEE-98FF-4134-BF6B-39EA229E5EF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomCat.Hub", "src\TomCat.Hub\TomCat.Hub.csproj", "{19C211B5-D4FF-4504-8B0B-2E5412EA8B65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F8F8EEEE-98FF-4134-BF6B-39EA229E5EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8F8EEEE-98FF-4134-BF6B-39EA229E5EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8F8EEEE-98FF-4134-BF6B-39EA229E5EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19C211B5-D4FF-4504-8B0B-2E5412EA8B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C211B5-D4FF-4504-8B0B-2E5412EA8B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C211B5-D4FF-4504-8B0B-2E5412EA8B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C211B5-D4FF-4504-8B0B-2E5412EA8B65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
