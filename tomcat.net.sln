@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomCat", "src\TomCat\TomCat.csproj", "{00FD09C7-6491-4ED4-A1A4-68ABAC86F9A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomCat.Server", "src\TomCat.Server\TomCat.Server.csproj", "{F8F8EEEE-98FF-4134-BF6B-39EA229E5EF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{00FD09C7-6491-4ED4-A1A4-68ABAC86F9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00FD09C7-6491-4ED4-A1A4-68ABAC86F9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00FD09C7-6491-4ED4-A1A4-68ABAC86F9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8F8EEEE-98FF-4134-BF6B-39EA229E5EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F8EEEE-98FF-4134-BF6B-39EA229E5EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F8EEEE-98FF-4134-BF6B-39EA229E5EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F8EEEE-98FF-4134-BF6B-39EA229E5EF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
